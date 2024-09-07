@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\bin\Debug\net8.0\SubArrayDivision.exe
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\bin\Debug\net8.0\SubArrayDivision.deps.json
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\bin\Debug\net8.0\SubArrayDivision.runtimeconfig.json
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\bin\Debug\net8.0\SubArrayDivision.dll
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\bin\Debug\net8.0\SubArrayDivision.pdb
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.AssemblyInfo.cs
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.dll
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\refint\SubArrayDivision.dll
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.pdb
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\SubArrayDivision.genruntimeconfig.cache
+D:\KALEEM\pocies\SubArrayDivision\SubArrayDivision\obj\Debug\net8.0\ref\SubArrayDivision.dll
